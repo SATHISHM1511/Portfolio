@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(243, 243, 183);
+    
+}
+.head{
+    text-align: center;
+    
+}
+h1{
+    color: aquamarine;
+    background-color: rgb(136, 161, 96);
+}
+.skills{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: blueviolet;
+}
+table{
+   text-align: center;
+   table-layout: fixed;
+   
+    
+}
+th,td{
+    width:200px;
+    height: 30px;
+
+}
+.exp{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(11, 79, 119);
+    
+}
+
+/* .exp2{
+    color:rgb(18, 67, 173);
+} */
+.prj{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: blueviolet;
+    
+    
+}
+.prj2{
+    color: rgb(4, 11, 24);
+}
+.ed{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(226, 53, 125);
+}
+.ed{
+    color: blueviolet;
+}
+.table{
+    border-collapse: collapse;
+    border-color: rgb(15, 165, 53);
+    width: 100%;
+    
+    
+}
+.table tr th{
+    background-color: #eb9651f6;
+    color: black;
+}
+.table tr td{
+    background-color: rgb(224, 166, 139);
+    color: black;
+}
+
